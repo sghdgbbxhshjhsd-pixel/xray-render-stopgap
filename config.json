@@ -1,0 +1,1 @@
+{"inbounds":[{"listen":"0.0.0.0","port":8080,"protocol":"vless","settings":{"clients":[{"id":"UUID_PLACEHOLDER"}],"decryption":"none"},"streamSettings":{"network":"ws","wsSettings":{"path":"WS_PATH_PLACEHOLDER"}}}],"log":{"loglevel":"warning"},"outbounds":[{"protocol":"freedom"}]}
